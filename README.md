@@ -9,3 +9,4 @@ POST: /loan/borrowers |POST request on this api will add the borrower into the p
 GET: /loan/loans | GET request on this api will return a statewise details of amount lended and amount recoevered.
 
 ## Deployed over Heroku
+[Link] (https://sched-task.herokuapp.com/)
